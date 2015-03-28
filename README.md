@@ -43,6 +43,4 @@ Notes:
 
 Please make certain that you have a backup of your iTunes folder when you first start using this script. I have tested it on my Mac and laptop which are running Yosemite and the latest iTunes 12.1.0.50 as of March 5, 2015. The progress bar will break the script in earlier versions of OS X... 
 
-This script makes syncing a USB flash drive almost as easy as syncing an iPod. Which is nice...
-
 Please provide any feedback or if there are any AppleScript gurus out there, suggestions on how to improve it.
