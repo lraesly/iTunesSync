@@ -1,5 +1,6 @@
 # iTunesSync
-Easy iTunes playlist syncing for Tesla USB flash drive
+Easy iTunes playlist syncing for a USB flash drive used in a Tesla Model S.  This script makes syncing a USB flash drive almost as easy as syncing an iPod. Which is nice...
+
 Highlights of the script:
 - This script is for anyone that uses playlists for listening- not genre, album, artist, etc. as there are multiple copies of a song on the flash drive.
 - Syncs (selectively) multiple playlists from iTunes to a drive/folder of your choice (including USB flash drive)
